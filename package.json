@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native/hm-video-player",
+  "_id": "@ionic-native/hm-video-player@0.0.1",
+  "_inBundle": false,
+  "_location": "/@ionic-native/hm-video-player",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native/hm-video-player",
+    "name": "@ionic-native/hm-video-player",
+    "escapedName": "@ionic-native%2fhm-video-player",
+    "scope": "@ionic-native",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "",
+  "_spec": "@ionic-native/hm-video-player",
+  "_where": "",
+  "author": {
+    "name": "ionic"
+  },
+  "bugs": {
+    "url": "https://github.com/ionic-team/hm-video-player/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@types/cordova": "latest"
+  },
+  "deprecated": false,
+  "description": "Ionic Native - Native plugins for ionic apps",
+  "homepage": "https://github.com/ionic-team/ionic-native#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native/image-save",
+  "peerDependencies": {
+    "rxjs": "^5.5.0 || ^6.5.0",
+    "@ionic-native/core": "^5.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandLZ/hm-video-player.git"
+  },
+  "typings": "index.d.ts",
+  "version": "0.0.1"
+}
