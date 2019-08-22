@@ -1,5 +1,4 @@
 import { IonicNativePlugin } from '@ionic-native/core';
-import { ErrorCallback, SuccessCallback } from '../image-save';
 export declare class HMVideoPlayer extends IonicNativePlugin {
     /**
      * This function does something
@@ -9,3 +8,5 @@ export declare class HMVideoPlayer extends IonicNativePlugin {
      */
     showVideo(options: string, success?: SuccessCallback<any>, error?: ErrorCallback<any>): Promise<any>;
 }
+export declare type SuccessCallback<T> = (result?: T) => void;
+export declare type ErrorCallback<T> = (result?: T) => void;
