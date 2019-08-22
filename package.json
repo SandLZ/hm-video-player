@@ -37,7 +37,7 @@
   "homepage": "https://github.com/ionic-team/ionic-native#readme",
   "license": "MIT",
   "module": "index.js",
-  "name": "@ionic-native/image-save",
+  "name": "@ionic-native/hm-video-player",
   "peerDependencies": {
     "rxjs": "^5.5.0 || ^6.5.0",
     "@ionic-native/core": "^5.1.0"
